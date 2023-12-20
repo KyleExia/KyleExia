@@ -23,8 +23,6 @@ body {
     z-index: 2;
 }
 
-/*Navigation Tab Style*/
-
 .container_1 {
     position: fixed;
     width: 100%;
@@ -58,8 +56,6 @@ body {
 nav {
     margin: 0 30px;
 }
-
-/*Body Style*/
 
 ul {
     list-style: none;
@@ -106,8 +102,6 @@ hr {
     border: 1px solid black;
     border-width: 1px;
 }
-
-/*Home Page Style*/
 
 .profile_image {
     position: fixed;
@@ -243,8 +237,6 @@ section {
     z-index: 0;
 }
 
-/*Flex Page Style*/
-
 .image_1 {
     position: absolute;
     top: 30%;
@@ -297,8 +289,6 @@ section {
     background-color: rgba(255, 255, 255, 0.8);
     border-radius: 10px;
 }
-
-/* Footer Style */
 
 .footer {
     position: fixed;
